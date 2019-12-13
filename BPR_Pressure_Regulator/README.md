@@ -21,8 +21,8 @@ Filament Polypropylene :
 
 ### STL files 
 
-1 - liquid face plate with two slots spaced 3.5 mm apart that will face the PTFE membrane (1 input and 1 output)
+1 - Liquid face plate with two slots spaced 3.5 mm apart that will face the PTFE membrane (1 input and 1 output).
 
-2 - gas face plate with single entry and domed recess, recess for insertion of the silicone ring and faces the PTFE gasket
+2 - Gas face plate with single entry and domed recess to allow a void for the liquid to pass under the PTFE membrane. Additional recess for insertion of the silicone compression ring and this part faces the PTFE gasket.
 
 Note that when printing the stl files there will need to be a pause inserted at the tops of the seating. This pause is to enable the nuts to be inserted manually prior to resuming the print and to embed the nuts within the print.
