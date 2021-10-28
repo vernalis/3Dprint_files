@@ -8,7 +8,7 @@ Back-pressure regulator that can be used in flow chemistry applications.
 
 [Full Details][bpr]
 
-## Photodisc Cooler
+## Photo-CDR Cooler
 
 Cooler base and lamp holder for temperature control in a photodisc reactor.
 
@@ -16,4 +16,4 @@ Cooler base and lamp holder for temperature control in a photodisc reactor.
 
 [vr]: https://www.vernalis.com/
 [bpr]: Back-pressure%20Regulator
-[pc]: Photodisc%20Cooler
+[pc]: Photo-CDR%20Cooler
