@@ -14,6 +14,13 @@ Cooler base and lamp holder for temperature control in a photodisc reactor.
 
 [Full Details][pc]
 
+## Raspberry Pi Case
+
+A Raspberry Pi 4 case accommodating RGB LCD shield (ADA716) – allowing headless operation of the device and containment of all components.
+
+[Full Details][case]
+
 [vr]: https://www.vernalis.com/
 [bpr]: Back-pressure%20Regulator
 [pc]: Photo-CDR%20Cooler
+[case]: Raspberry%20Pi%20Case
