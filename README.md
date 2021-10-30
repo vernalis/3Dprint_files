@@ -21,6 +21,6 @@ A Raspberry Pi 4 case accommodating RGB LCD shield (ADA716) – allowing headles
 [Full Details][case]
 
 [vr]: https://www.vernalis.com/
-[bpr]: Back-pressure%20Regulator
-[pc]: Photo-CDR%20Cooler
-[case]: Raspberry%20Pi%20Case
+[bpr]: <Back-pressure Regulator>
+[pc]: <Photo-CDR Cooler>
+[case]: <Raspberry Pi Case>

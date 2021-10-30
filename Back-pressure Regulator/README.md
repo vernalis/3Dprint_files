@@ -1,5 +1,8 @@
 # BPR Back Pressure Regulator
 
+[![DOI:10.31224/osf.io/3t9bq](https://img.shields.io/badge/DOI-10.31224%2Fosf.io%2F3t9bq-blue)][paper]
+[![Creative Commons Attribution 4.0 International License](https://img.shields.io/badge/License-CC%20BY%204.0-green)][cc-by]
+
 ## Publication
 
 Detailed information about the design and testing of these files is available in the accompanying paper:
@@ -8,12 +11,7 @@ Detailed information about the design and testing of these files is available in
 
 If you have used this project as a resource in your research, please cite:
 
-> Design and development of a 3D-printed back-pressure regulator
-> David L Walmsley and Emilie Sellier
-> https://github.com/vernalis/3Dprint_files
-
-[paper]: <2020 Design and development of a 3D Printed BPR.pdf>
-[si]: <2020 Walmsley BPR Supplementary Information.pdf>
+> David L Walmsley and Emilie Sellier (2020) “Design and Development of a 3d-printed Back-pressure Regulator” engrXiv. DOI: [10.31224/osf.io/3t9bq][paper]
 
 ## Assembly Instructions
 
@@ -42,4 +40,6 @@ Copyright 2019 Vernalis (R&D) Limited
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[paper]: https://doi.org/10.31224/osf.io/3t9bq
+[si]: https://osf.io/makqu/
+[cc-by]: https://creativecommons.org/licenses/by/4.0/
