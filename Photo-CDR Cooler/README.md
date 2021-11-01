@@ -54,6 +54,6 @@ Copyright 2021 Vernalis (R&D) Limited
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
-[paper]: TODO
-[si]: TODO
+[paper]: <Control and Monitoring of Temperature in 3D-Printed Photo-CDRs.pdf>
+[si]: <Control and Monitoring of Temperature in 3D-Printed Photo-CDRs Supplementary Information.pdf>
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
