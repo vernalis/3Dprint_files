@@ -1,5 +1,6 @@
 # Raspberry Pi Case
 
+[![DOI:10.33774/chemrxiv-2021-cxs25](https://img.shields.io/badge/DOI-10.33774%2Fchemrxiv--2021--cxs25-blue)][paper]
 [![Creative Commons Attribution 4.0 International License](https://img.shields.io/badge/License-CC%20BY%204.0-green)][cc-by]
 
 ## Summary
@@ -12,7 +13,7 @@ Detailed information about the printing of these files is available in the accom
 
 If you have used this project as a resource in your research, please cite:
 
-> David Lee Walmsley, Stephen Hilton, Emilie Sellier, Matthew Penny, Daniel Maddox (2021) “Control and Monitoring of Temperature in 3D-Printed Circular Disk Reactors for Continuous Flow Photochemistry using Raspberry Pi Based Software”
+> David Lee Walmsley, Stephen Hilton, Emilie Sellier, Matthew Penny, Daniel Maddox (2021) “Control and Monitoring of Temperature in 3D-Printed Circular Disk Reactors for Continuous Flow Photochemistry using Raspberry Pi Based Software” ChemRxiv. DOI: [10.33774/chemrxiv-2021-cxs25][paper]
 
 ## Assembly Instructions
 
@@ -33,6 +34,6 @@ Copyright 2021 Vernalis (R&D) Limited
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
-[paper]: <../Photo-CDR Cooler/Control and Monitoring of Temperature in 3D-Printed Photo-CDRs.pdf>
-[si]: <../Photo-CDR Cooler/Control and Monitoring of Temperature in 3D-Printed Photo-CDRs Supplementary Information.pdf>
+[paper]: https://doi.org/10.33774/chemrxiv-2021-cxs25
+[si]: https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/617fc58581c4fc77f2e8b692/original/control-and-monitoring-of-temperature-in-3d-printed-circular-disk-reactors-for-continuous-flow-photochemistry-using-raspberry-pi-based-software.pdf
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
