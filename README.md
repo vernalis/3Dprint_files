@@ -20,7 +20,14 @@ A Raspberry Pi 4 case accommodating RGB LCD shield (ADA716) – allowing headles
 
 [Full Details][case]
 
+## Syrris Asia Collector Racks
+
+Custom racks fitting the Syrris Asia Automated Collector (Gilson FC203B)
+
+[Full Details][racks]
+
 [vr]: https://www.vernalis.com/
 [bpr]: <Back-pressure Regulator>
 [pc]: <Photo-CDR Cooler>
 [case]: <Raspberry Pi Case>
+[racks]: <Syrris Asia Collector Racks>
